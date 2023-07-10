@@ -1,0 +1,3 @@
+[submodule "themes/hugo-simple-business"]
+	path = themes/hugo-simple-business
+	url = git@github.com:comalice/hugo-simple-business.git
