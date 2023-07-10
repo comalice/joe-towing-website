@@ -8,6 +8,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   Description = "Towing and recovery, winch out, and roadside assistance for Western Washington"
   LocationsDescription = "We provide towing services for the following cities and their surrounding areas in Washington State:"
   Locations = [
+    "Olympia",
     "Tacoma",
     "Gig Harbor",
     "Puyallup",
@@ -16,11 +17,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     "Seattle",
     "Lynnwood",
     "Everette",
-    "Marysville"
+    "Marysville",
+    "Bremerton"
   ]
   LogoPath = ""
-  Phone = "1-555-123-4567"
-  Email = "joe@joetowing.com"
+  Phone = "1-253-292-7032"
+  Email = "joetowing21@gmail.com"
   Hours = [
     "Monday: 24 hours",
     "Tuesday: 24 hours",
@@ -28,7 +30,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     "Thursday: 24 hours",
     "Friday: 24 hours",
     "Saturday: 24 hours",
-    "Sunday: 24 hours",
+    "Sunday: CLOSED",
   ]
   ServicesTitle = "Towing and Roadside Assistance"
   Services = [
