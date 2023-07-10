@@ -1,0 +1,41 @@
+baseURL = "http://joe-towing.com/"
+languageCode = "en-us"
+title = "Joe Towing Services"
+theme = "hugo-simple-business"
+author = "Joe Towing"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+[params]
+  Description = "Towing and recovery, winch out, and roadside assistance for Western Washington"
+  LocationsDescription = "We provide towing services for the following cities and their surrounding areas in Washington State:"
+  Locations = [
+    "Tacoma",
+    "Gig Harbor",
+    "Puyallup",
+    "Kent",
+    "Lakewood",
+    "Seattle",
+    "Lynnwood",
+    "Everette",
+    "Marysville"
+  ]
+  LogoPath = ""
+  Phone = "1-555-123-4567"
+  Email = "joe@joetowing.com"
+  Hours = [
+    "Monday: 24 hours",
+    "Tuesday: 24 hours",
+    "Wednesday: 24 hours",
+    "Thursday: 24 hours",
+    "Friday: 24 hours",
+    "Saturday: 24 hours",
+    "Sunday: 24 hours",
+  ]
+  ServicesTitle = "Towing and Roadside Assistance"
+  Services = [
+    "Towing and Recovery",
+    "Fuel Delivery",
+    "Tire Changes",
+    "Winch Out",
+    "Lock Outs",
+    "Jump Starts"
+  ]
