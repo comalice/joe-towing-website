@@ -24,12 +24,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   Phone = "1-253-292-7032"
   Email = "joetowing21@gmail.com"
   Hours = [
-    "Monday: 24 hours",
-    "Tuesday: 24 hours",
-    "Wednesday: 24 hours",
-    "Thursday: 24 hours",
-    "Friday: 24 hours",
-    "Saturday: 24 hours",
+    "Monday: 9:00AM-9:00PM",
+    "Tuesday: 9:00AM-9:00PM",
+    "Wednesday: 9:00AM-9:00PM",
+    "Thursday: 9:00AM-9:00PM",
+    "Friday: 9:00AM-9:00PM",
+    "Saturday: 9:00AM-9:00PM",
     "Sunday: CLOSED",
   ]
   ServicesTitle = "Towing and Roadside Assistance"
