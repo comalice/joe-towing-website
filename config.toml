@@ -4,6 +4,9 @@ title = "Joe Towing Services"
 theme = "hugo-simple-business"
 author = "Joe Towing"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+[services]
+  [services.googleAnalytics]
+    ID = "G-FT3ZG6PRNY"
 [params]
   Description = "Towing and recovery, winch out, and roadside assistance for Western Washington"
   LocationsDescription = "We provide towing services for the following cities and their surrounding areas in Washington State:"
